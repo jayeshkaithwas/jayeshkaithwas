@@ -11,8 +11,9 @@
 </div>
 
 <h1 align="center">
-  hey there
+  Hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm Coder.
 </h1>
 
 <div align="center">
@@ -23,14 +24,19 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-- :telescope: I’m studying at IANT Institute (Proffesional Software Programmer Course) and contributing to frontend and backend for building web applications.
+• 🔭 I’m currently studying at IANT and working on <b>something cool!</b> <br/>
+• 👯 I’m looking to collaborate on cool project and Exploring Technology.<br/>
+• ⚡ In free time, I solve machine at HacktheBox.<br/>
+• 📫 Reach me out [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/jayesh-kaithwas-4a265a203)<br/>
+</span>
 
-- :seedling: Exploring Tecnology.
+<br />
+<br />
 
-- :zap: In my free time, I solve machine at Hack the box.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/jayesh-kaithwas-4a265a203)
 
 ---
 
