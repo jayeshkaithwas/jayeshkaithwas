@@ -85,12 +85,12 @@ I am a <b>Front-End Developer</b> <img src="https://media.giphy.com/media/WUlplc
 [wiki]: https://en.wikipedia.org/wiki/Main_Page
 [quora]: https://www.quora.com/
 [doc]: https://www.digitalocean.com/community
-[youtube]: https://www.instagram.com/p/Cbe0bkdLhNr/
+[youtube]: https://www.youtube.com/
 [udemy]: https://www.udemy.com/
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/hicodersofficial?tab=repositories
+[repo]: https://github.com/jayeshkaithwas?tab=repositories
 
 
 ---
