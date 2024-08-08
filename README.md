@@ -42,8 +42,6 @@ I am a <b>Software Developer</b> <img src="https://media.giphy.com/media/WUlplcM
 
 ![](https://github-profile-trophy.vercel.app/?username=jayeshkaithwas&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
 
-<a href="http://www.github.com/jayeshkaithwas"><img src="https://activity-graph.herokuapp.com/graph?username=jayeshkaithwas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <br />
 
 ---
