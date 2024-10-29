@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://in.linkedin.com/in/jayesh-kaithwas-4a265a203">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
   <a href="https://t.me/j4y35h">
@@ -32,7 +32,7 @@
 • 👯 Looking to collaborate on <b>cool projects</b> and <b>Exploring Technology</b>.<br/>
 • ⚡ In free time, I solve machine at <b>HacktheBox</b> or <b>TryHackMe</b>.<br/>
 • 📫 Reach me out <a href="https://in.linkedin.com/in/jayesh-kaithwas-4a265a203">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
   <a href="https://t.me/j4y35h">
