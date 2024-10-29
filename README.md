@@ -4,11 +4,14 @@
 
 <div id="badges" align="center">
   <a href="https://in.linkedin.com/in/jayesh-kaithwas-4a265a203">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=jayeshkaithwas&style=flat-square&color=blue" alt=""/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  &nbsp;
+  <a href="https://t.me/j4y35h">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <br>
+    <img src="https://komarev.com/ghpvc/?username=jayeshkaithwas&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
@@ -25,10 +28,17 @@
 ## 👨‍💻 **About Me** :
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
-• 🔭 I am a <b>Software Developer</b> and a <b>Cyber Security Enthusiast</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+• 🔭 I am a <b>Software Developer</b> and <b>Cyber Security Enthusiast</b> from India.
 • 👯 Looking to collaborate on <b>cool projects</b> and <b>Exploring Technology</b>.<br/>
 • ⚡ In free time, I solve machine at <b>HacktheBox</b> or <b>TryHackMe</b>.<br/>
-• 📫 Reach me out [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/jayesh-kaithwas-4a265a203)[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/j4y35h)<br/>
+• 📫 Reach me out <a href="https://in.linkedin.com/in/jayesh-kaithwas-4a265a203">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/j4y35h">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <br/>
 </span>
 
 <br />
