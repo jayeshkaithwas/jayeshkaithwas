@@ -28,7 +28,7 @@
 ## 👨‍💻 **About Me** :
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
-• 🔭 I am a <b>Software Developer</b> and <b>Cyber Security Enthusiast</b> from India.
+• 🔭 I am a <b>Software Developer</b> and <b>Cyber Security Enthusiast</b> from India.<br/>
 • 👯 Looking to collaborate on <b>cool projects</b> and <b>Exploring Technology</b>.<br/>
 • ⚡ In free time, I solve machine at <b>HacktheBox</b> or <b>TryHackMe</b>.<br/>
 • 📫 Reach me out <a href="https://in.linkedin.com/in/jayesh-kaithwas-4a265a203">
