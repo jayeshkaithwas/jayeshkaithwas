@@ -104,9 +104,11 @@
 
 
 ---
-## 🔥 **My Stats** :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayeshkaithwas&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
 ---
