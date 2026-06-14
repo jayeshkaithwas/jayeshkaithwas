@@ -48,8 +48,8 @@
 ## 🛠️ **Languages and Tools** :
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,aws,html,css,vscode,github,powershell,bash,github,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,docker,php,mongodb,c,obsidian,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,aws,html,css,vscode,github,powershell,bash,github,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,docker,c,obsidian,mysql,postgresql,raspberrypi" /><br>
 </div>
 
 ---
